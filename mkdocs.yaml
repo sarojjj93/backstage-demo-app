@@ -1,0 +1,8 @@
+site_name: 'Backstage demo app'
+site_description: 'Main documentation for Backstage features and platform APIs'
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
